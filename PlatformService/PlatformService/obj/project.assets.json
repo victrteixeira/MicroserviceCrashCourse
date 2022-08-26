@@ -2108,24 +2108,26 @@
     ]
   },
   "packageFolders": {
-    "/home/vic/.nuget/packages/": {}
+    "C:\\Users\\vickt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/vic/Desktop/dotnet-courses/MicroserviceCrashCourse/PlatformService/PlatformService/PlatformService.csproj",
+      "projectUniqueName": "N:\\Youtube\\Microservices\\PlatformService\\PlatformService\\PlatformService.csproj",
       "projectName": "PlatformService",
-      "projectPath": "/home/vic/Desktop/dotnet-courses/MicroserviceCrashCourse/PlatformService/PlatformService/PlatformService.csproj",
-      "packagesPath": "/home/vic/.nuget/packages/",
-      "outputPath": "/home/vic/Desktop/dotnet-courses/MicroserviceCrashCourse/PlatformService/PlatformService/obj/",
+      "projectPath": "N:\\Youtube\\Microservices\\PlatformService\\PlatformService\\PlatformService.csproj",
+      "packagesPath": "C:\\Users\\vickt\\.nuget\\packages\\",
+      "outputPath": "N:\\Youtube\\Microservices\\PlatformService\\PlatformService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/vic/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\vickt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2189,7 +2191,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
