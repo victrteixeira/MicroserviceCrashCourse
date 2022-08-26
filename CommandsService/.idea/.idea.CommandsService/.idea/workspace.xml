@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2686d4c-b89a-4b1d-82d0-eab3508cd92b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PlatformService/PlatformService/appsettings.Production.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CommandsService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CommandsService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../K8S/platforms-depl.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../K8S/platforms-depl.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PlatformService/PlatformService/obj/Debug/net6.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../PlatformService/PlatformService/obj/Debug/net6.0/PlatformService.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PlatformService/PlatformService/obj/Debug/net6.0/PlatformService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../PlatformService/PlatformService/obj/Debug/net6.0/PlatformService.assets.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
