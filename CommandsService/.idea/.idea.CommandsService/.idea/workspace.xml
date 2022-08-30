@@ -6,7 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2686d4c-b89a-4b1d-82d0-eab3508cd92b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PlatformService/PlatformService/appsettings.Production.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CommandsService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CommandsService/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661362159289</updated>
       <workItem from="1661362162869" duration="1042000" />
+      <workItem from="1661547092453" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;CommandsService/.idea/.idea.CommandsService/.idea/workspace.xml&#10;#&#9;CommandsService/CommandsService/CommandsService.csproj&#10;#&#9;PlatformService/PlatformService/obj/Debug/net6.0/PlatformService.assets.cache">
       <created>1661544781852</created>
