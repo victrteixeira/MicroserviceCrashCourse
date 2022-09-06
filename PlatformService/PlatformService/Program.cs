@@ -11,11 +11,25 @@ builder.Services.AddControllers();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseInMemoryDatabase("InMem"));
-builder.Services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>();
+
+if (builder.Environment.IsProduction())
+{
+    Console.WriteLine("--> Using SqlServer Db");
+    builder.Services.AddDbContext<AppDbContext>(opt =>
+    {
+        opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn"));
+    });
+}
+else
+{
+    Console.WriteLine("--> Using InMem Db");
+    builder.Services.AddDbContext<AppDbContext>(opt =>
+        opt.UseInMemoryDatabase("InMem"));    
+}
 
 builder.Services.AddScoped<IPlatformRepo, PlatformRepo>(); 
+builder.Services.AddHttpClient<ICommandDataClient, HttpCommandDataClient>();
+
 Console.WriteLine($"--> CommandService Endpoint {builder.Configuration["CommandService"]}");
 
 var app = builder.Build();
