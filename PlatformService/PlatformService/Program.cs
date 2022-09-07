@@ -14,11 +14,11 @@ builder.Services.AddSwaggerGen();
 
 if (builder.Environment.IsProduction())
 {
-    Console.WriteLine("--> Using SqlServer Db");
-    builder.Services.AddDbContext<AppDbContext>(opt =>
-    {
-        opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn"));
-    });
+Console.WriteLine("--> Using SqlServer Db");
+builder.Services.AddDbContext<AppDbContext>(opt =>
+{
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn"));
+});
 }
 else
 {
