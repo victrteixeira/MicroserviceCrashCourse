@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PFn+bBuqPzYcqeoJe4s3WQ0OqY526M9INv5tQGCHlR6u4G6tUdVHW3CkinF93pWMZp00gs2UR9hsfyqJ05F9xQ==",
+  "dgSpecHash": "dpWjazRlCaVJ4iM62mM02lyY1FXv8yaMrvFjWLYIyGTi15E5F44GJCFWbnJmnHQSiO992vYs55Tk8kZ+wFQFNw==",
   "success": true,
-  "projectFilePath": "N:\\Youtube\\Microservices\\CommandsService\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Code\\MicroserviceCrashCourse\\CommandsService\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vickt\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\vickt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
