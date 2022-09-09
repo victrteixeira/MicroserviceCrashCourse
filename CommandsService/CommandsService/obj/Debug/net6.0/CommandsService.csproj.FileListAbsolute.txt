@@ -70,3 +70,5 @@ C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\obj\Debug\net6.0
 C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\obj\Debug\net6.0\CommandsService.pdb
 C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\obj\Debug\net6.0\CommandsService.genruntimeconfig.cache
 C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\obj\Debug\net6.0\ref\CommandsService.dll
+C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\bin\Debug\net6.0\appsettings.Production.json
+C:\Code\MicroserviceCrashCourse\CommandsService\CommandsService\bin\Debug\net6.0\RabbitMQ.Client.dll
