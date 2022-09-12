@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\MicroserviceCrashCourse\\PlatformService\\PlatformService\\PlatformService.csproj": {}
+    "C:\\Code\\YT-Microservice\\PlatformService\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "C:\\Code\\MicroserviceCrashCourse\\PlatformService\\PlatformService\\PlatformService.csproj": {
+    "C:\\Code\\YT-Microservice\\PlatformService\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\MicroserviceCrashCourse\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "C:\\Code\\YT-Microservice\\PlatformService\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "C:\\Code\\MicroserviceCrashCourse\\PlatformService\\PlatformService\\PlatformService.csproj",
+        "projectPath": "C:\\Code\\YT-Microservice\\PlatformService\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\vickt\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\MicroserviceCrashCourse\\PlatformService\\PlatformService\\obj\\",
+        "outputPath": "C:\\Code\\YT-Microservice\\PlatformService\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vickt\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -41,6 +41,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.48.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ty/HKvdEt3Upkpy+FLm+bkuZsUf3o55VsrY3KAY+QsHnKFNQuOSQg30nQKweLZmvp9mqlixb0wfYdkAHjxPeog==",
+  "dgSpecHash": "tDGIphUlnCilzqL4WmTbJ/bOGTg8g83CuCmF9f0yyG0irvLmsGU2C069FbaoT9RWrpgKbgOcv3x9/dquNjW+Xg==",
   "success": true,
-  "projectFilePath": "C:\\Code\\MicroserviceCrashCourse\\CommandsService\\CommandsService\\CommandsService.csproj",
+  "projectFilePath": "C:\\Code\\YT-Microservice\\CommandsService\\CommandsService\\CommandsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vickt\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\vickt\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\vickt\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\vickt\\.nuget\\packages\\grpc.core.api\\2.48.0\\grpc.core.api.2.48.0.nupkg.sha512",
+    "C:\\Users\\vickt\\.nuget\\packages\\grpc.net.client\\2.48.0\\grpc.net.client.2.48.0.nupkg.sha512",
+    "C:\\Users\\vickt\\.nuget\\packages\\grpc.net.common\\2.48.0\\grpc.net.common.2.48.0.nupkg.sha512",
+    "C:\\Users\\vickt\\.nuget\\packages\\grpc.tools\\2.48.1\\grpc.tools.2.48.1.nupkg.sha512",
     "C:\\Users\\vickt\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vickt\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\vickt\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
