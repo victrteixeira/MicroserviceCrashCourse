@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: commandservice
-          image: imvictr/commandservice:latest
+          image: imvictr/commandservice:1.2
 ---
 apiVersion: v1
 kind: Service
